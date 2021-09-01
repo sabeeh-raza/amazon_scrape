@@ -4,7 +4,7 @@ f.write(url)
 f.write('\n')
 
 
-for i in range(2,100):
+for i in range(2,86):
     url = 'https://www.amazon.com/s?k=laptops&i=computers-intl-ship&page=' + str(i) + '&qid=1630527954&ref=sr_pg_' + str(i)
     f.write(url)
     f.write('\n')
