@@ -4,8 +4,8 @@ f.write(url)
 f.write('\n')
 
 
-for i in range(2,102):
-    url = 'https://www.amazon.com/s?k=dslr+cameras&i=photo&rh=n%3A281052&page=' + str(i) + '&qid=1630610066&ref=sr_pg_' + str(i)
+for i in range(2,103):
+    url = 'https://www.amazon.com/s?k=dslr+cameras&i=photo&rh=n%3A281052&page=' + str(i) + '&qid=1630625440&ref=sr_pg_' + str(i)
     f.write(url)
     f.write('\n')
 
