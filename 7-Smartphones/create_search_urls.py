@@ -1,11 +1,11 @@
 f = open('search_urls_smartphone.txt', 'w+')
-url = 'https://www.amazon.com/s?k=smartphones&ref=glow_cls&refresh=7&rh=n%3A7072561011'
+url = 'https://www.amazon.com/s?k=smartphone&i=electronics&rh=n%3A172282%2Cp_36%3A10000-&dc&qid=1631025516&rnid=386442011&ref=sr_nr_p_36_3'
 f.write(url)
 f.write('\n')
 
 
-for i in range(2,107):
-    url = 'https://www.amazon.com/s?k=smartphones&i=mobile&rh=n%3A7072561011&page=' + str(i) + '&qid=1631005149&refresh=7&ref=sr_pg_' + str(i)
+for i in range(2,170):
+    url = 'https://www.amazon.com/s?k=smartphone&i=electronics&rh=n%3A172282%2Cp_36%3A10000-&dc&page=' + str(i) + '&qid=1631025534&rnid=386442011&ref=sr_pg_' + str(i)
     f.write(url)
     f.write('\n')
 
