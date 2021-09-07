@@ -4,7 +4,7 @@ f.write(url)
 f.write('\n')
 
 
-for i in range(2,170):
+for i in range(2,180):
     url = 'https://www.amazon.com/s?k=smartphone&i=electronics&rh=n%3A172282%2Cp_36%3A10000-&dc&page=' + str(i) + '&qid=1631025534&rnid=386442011&ref=sr_pg_' + str(i)
     f.write(url)
     f.write('\n')
