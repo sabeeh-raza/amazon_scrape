@@ -43,7 +43,7 @@ def scrape(url):
 
 
 # product_data = []
-with open("search_urls_smartphone.txt", 'r') as urllist, open('search_output_smartphone.jsonl', 'w+') as outfile:
+with open("search_urls_smartphone.txt", 'r') as urllist, open('search_smartphone_output.jsonl', 'w+') as outfile:
     f = open('product_urls_smartphone.txt','w+')
     for url in urllist.read().splitlines():
         data = scrape(url)
