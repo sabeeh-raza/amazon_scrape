@@ -1,0 +1,73 @@
+Month,Month_name,product_type,sale
+1,January,processor,12.12414107
+1,January,smartphone,10.92944247
+1,January,dslr camera,6.05671305
+1,January,keyboard,3.76672348
+1,January,monitor,2.43625437
+1,January,mouse,2.03213312
+2,February,smartphone,7.85554931
+2,February,processor,7.1956826
+2,February,dslr camera,5.42124168
+2,February,keyboard,3.30087639
+2,February,monitor,2.20329241
+2,February,mouse,1.81960208
+3,March,processor,13.14490713
+3,March,smartphone,11.38836401
+3,March,dslr camera,7.9554165
+3,March,keyboard,3.94847544
+3,March,monitor,2.54180332
+3,March,mouse,2.47785954
+4,April,smartphone,8.84130316
+4,April,processor,7.91412227
+4,April,dslr camera,5.90466738
+4,April,monitor,3.74493265
+4,April,keyboard,3.13888638
+4,April,mouse,1.65959793
+5,May,smartphone,11.34439059
+5,May,processor,10.95746904
+5,May,dslr camera,6.81238929
+5,May,keyboard,4.49048467
+5,May,monitor,3.75054399
+5,May,mouse,2.31591927
+6,June,processor,13.66324281
+6,June,smartphone,9.78764618
+6,June,dslr camera,9.13522492
+6,June,keyboard,4.81443346
+6,June,monitor,3.91951005
+6,June,mouse,2.23763414
+7,July,dslr camera,12.00761616
+7,July,processor,10.26897339
+7,July,smartphone,9.59996503
+7,July,keyboard,5.33826519
+7,July,monitor,5.09639896
+7,July,mouse,2.27695736
+8,August,processor,12.69057255
+8,August,smartphone,12.59529245
+8,August,dslr camera,9.58808958
+8,August,keyboard,5.32564607
+8,August,monitor,3.59010334
+8,August,mouse,2.27540752
+9,September,processor,17.25814408
+9,September,smartphone,13.68335365
+9,September,dslr camera,13.24799325
+9,September,keyboard,8.68326168
+9,September,monitor,6.08826062
+9,September,mouse,3.59142048
+10,October,processor,19.88267445
+10,October,smartphone,15.49738566
+10,October,dslr camera,14.39261738
+10,October,keyboard,7.7769382
+10,October,monitor,6.47486503
+10,October,mouse,3.30928859
+11,November,processor,24.32414067
+11,November,dslr camera,20.75633453
+11,November,smartphone,19.56181255
+11,November,keyboard,9.88685594
+11,November,monitor,6.31579711
+11,November,mouse,5.51515873
+12,December,smartphone,11.24070018
+12,December,processor,7.16425579
+12,December,dslr camera,5.92295477
+12,December,keyboard,3.53134149
+12,December,monitor,1.92786829
+12,December,mouse,1.45735032

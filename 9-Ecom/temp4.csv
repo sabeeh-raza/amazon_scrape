@@ -1,0 +1,37 @@
+day,Weekday,product_type,sale
+0,Monday,mouse,5.36709395
+0,Monday,monitor,8.50515243
+0,Monday,keyboard,9.8277266
+0,Monday,dslr camera,15.4809459
+0,Monday,processor,22.56536704
+0,Monday,smartphone,25.85595401
+2,Wednesday,mouse,2.4888182
+2,Wednesday,monitor,4.43016767
+2,Wednesday,keyboard,5.70340549
+2,Wednesday,smartphone,10.63668778
+2,Wednesday,dslr camera,12.35390971
+2,Wednesday,processor,12.79028198
+3,Thursday,mouse,4.82305338
+3,Thursday,monitor,7.32356521
+3,Thursday,keyboard,11.06058658
+3,Thursday,dslr camera,18.00928025
+3,Thursday,smartphone,22.65028744
+3,Thursday,processor,23.99588256
+4,Friday,mouse,6.24423826
+4,Friday,monitor,9.63566575
+4,Friday,keyboard,11.75771613
+4,Friday,dslr camera,21.93156266
+4,Friday,smartphone,27.67245825
+4,Friday,processor,33.60031829
+5,Saturday,mouse,5.42099181
+5,Saturday,monitor,8.87054954
+5,Saturday,keyboard,11.56385885
+5,Saturday,dslr camera,22.07694233
+5,Saturday,smartphone,24.9047789
+5,Saturday,processor,27.70956802
+6,Sunday,mouse,6.62413348
+6,Sunday,monitor,9.32452954
+6,Sunday,keyboard,14.08889474
+6,Sunday,dslr camera,27.34861764
+6,Sunday,smartphone,30.60503886
+6,Sunday,processor,35.92690796

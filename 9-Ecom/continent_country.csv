@@ -1,0 +1,221 @@
+continent,sub_region,Country,product_type,Sum_sale
+Europe,Western Europe,Germany,processor,142440649.1
+Europe,Western Europe,Germany,smartphone,134805701.2
+Europe,Western Europe,Germany,dslr camera,107076642
+Europe,Western Europe,Germany,keyboard,57985260.34
+Europe,Western Europe,Germany,monitor,46576230.49
+Europe,Western Europe,Germany,mouse,28862954.27
+Europe,Western Europe,Netherlands,processor,6201620.14
+Europe,Western Europe,Netherlands,dslr camera,5832178.7
+Europe,Western Europe,Netherlands,smartphone,5480244.24
+Europe,Northern Europe,Ireland,processor,4462822.18
+Europe,Western Europe,France,processor,4184983.57
+Oceania,Australia and New Zealand,Australia,processor,3585881.67
+Europe,Northern Europe,Ireland,smartphone,3462028.58
+Europe,Northern Europe,United Kingdom,processor,3202440.23
+Europe,Northern Europe,United Kingdom,smartphone,3142897.36
+Europe,Northern Europe,Ireland,dslr camera,3087916.78
+Europe,Northern Europe,Ireland,keyboard,2679009.28
+Europe,Northern Europe,United Kingdom,dslr camera,2628517.77
+Europe,Western Europe,France,smartphone,2571172.51
+Europe,Western Europe,Netherlands,keyboard,2352575.78
+Europe,Western Europe,France,dslr camera,1980281.68
+Oceania,Australia and New Zealand,Australia,keyboard,1828169.38
+Oceania,Australia and New Zealand,Australia,dslr camera,1752791.23
+Europe,Northern Europe,United Kingdom,keyboard,1649491.62
+Oceania,Australia and New Zealand,Australia,smartphone,1633216.15
+Europe,Western Europe,France,keyboard,1571498.63
+Europe,Northern Europe,Sweden,processor,1342689.58
+Europe,Northern Europe,Ireland,monitor,1329621.36
+Asia,Eastern Asia,Japan,processor,1259346.52
+Europe,Western Europe,Netherlands,mouse,1232403.03
+Europe,Northern Europe,Sweden,dslr camera,1074037.83
+Europe,Northern Europe,United Kingdom,monitor,927136.58
+Europe,Western Europe,Netherlands,monitor,903619.7
+Europe,Northern Europe,Ireland,mouse,866473.98
+Europe,Northern Europe,United Kingdom,mouse,837155.37
+Europe,Southern Europe,Spain,processor,744061.45
+Europe,Western Europe,Switzerland,dslr camera,714086.97
+Asia,Eastern Asia,Japan,keyboard,705162.68
+Europe,Western Europe,Belgium,processor,690664.42
+Europe,Northern Europe,Sweden,smartphone,681400.7
+Europe,Western Europe,Switzerland,smartphone,680303.59
+Europe,Southern Europe,Spain,smartphone,671397.51
+Europe,Southern Europe,Spain,dslr camera,666461.13
+Europe,Western Europe,France,monitor,635596.93
+Europe,Northern Europe,Sweden,keyboard,634408.61
+Oceania,Australia and New Zealand,Australia,monitor,633577.23
+Europe,Western Europe,France,mouse,610663.14
+Europe,Western Europe,Switzerland,processor,608129.71
+Europe,Southern Europe,Portugal,processor,565564.97
+Europe,Western Europe,Belgium,dslr camera,532616.01
+Europe,Western Europe,Belgium,smartphone,520844.57
+Europe,Northern Europe,Norway,processor,459657.06
+Europe,Northern Europe,Finland,processor,440729.93
+Oceania,Australia and New Zealand,Australia,mouse,415093.32
+Europe,Southern Europe,Portugal,dslr camera,412971
+Europe,Northern Europe,Norway,dslr camera,408852.44
+Asia,Eastern Asia,Japan,smartphone,397186.71
+Europe,Western Europe,Switzerland,keyboard,379063.98
+Europe,Western Europe,Belgium,keyboard,371462.74
+Europe,Northern Europe,Sweden,monitor,364030.32
+Europe,Southern Europe,Italy,processor,349709.66
+Europe,Southern Europe,Portugal,smartphone,346894.07
+Asia,Eastern Asia,Japan,dslr camera,345604.3
+Europe,Northern Europe,Norway,smartphone,342440.55
+Europe,Southern Europe,Spain,keyboard,340620.91
+Asia,Western Asia,Cyprus,dslr camera,321571.53
+Asia,South-Eastern Asia,Singapore,dslr camera,311557.48
+Asia,Eastern Asia,Japan,monitor,277690.35
+Europe,Northern Europe,Sweden,mouse,276614.05
+Europe,Northern Europe,Norway,keyboard,245987.98
+Europe,Western Europe,Belgium,monitor,231782.39
+Europe,Southern Europe,Italy,dslr camera,215145.52
+Europe,Western Europe,Switzerland,monitor,213001.9
+Asia,South-Eastern Asia,Singapore,processor,206784.69
+Asia,Western Asia,Cyprus,processor,199881.03
+Europe,Southern Europe,Portugal,keyboard,196148.56
+Europe,Northern Europe,Denmark,processor,193493.31
+Asia,Western Asia,Israel,dslr camera,192032.35
+Europe,Southern Europe,Spain,monitor,188995.43
+Europe,Western Europe,Switzerland,mouse,187542.5
+Europe,Northern Europe,Norway,monitor,185089.58
+Europe,Southern Europe,Italy,smartphone,182570.3
+Europe,Northern Europe,Finland,smartphone,180840.13
+Asia,Western Asia,Cyprus,smartphone,179305.31
+Europe,Eastern Europe,Poland,processor,179135.64
+Europe,Northern Europe,Finland,dslr camera,167643.05
+Europe,Northern Europe,Finland,keyboard,165976.6
+Europe,Northern Europe,Denmark,smartphone,145449.7
+Europe,Western Europe,Austria,dslr camera,143074.04
+Europe,Southern Europe,Spain,mouse,142707.88
+Europe,Northern Europe,Denmark,dslr camera,136037.99
+Asia,Eastern Asia,Hong Kong,dslr camera,135613.38
+Europe,Western Europe,Belgium,mouse,126943.76
+Asia,Western Asia,Israel,processor,122486.46
+Europe,Northern Europe,Norway,mouse,113582.43
+Europe,Northern Europe,Denmark,keyboard,110733.13
+Asia,Eastern Asia,Hong Kong,processor,109709
+Europe,Southern Europe,Italy,keyboard,109051.84
+Americas,Northern America,United States,dslr camera,108889.35
+Asia,South-Eastern Asia,Singapore,smartphone,108487.96
+Unknown,Unknown,Unknown,dslr camera,106478.45
+Europe,Western Europe,Austria,processor,104368.79
+Europe,Southern Europe,Portugal,mouse,99713.8
+Asia,Eastern Asia,Hong Kong,smartphone,95495.37
+Americas,Northern America,United States,processor,94136.7
+Asia,Eastern Asia,Japan,mouse,93629.66
+Europe,Southern Europe,Portugal,monitor,93351.61
+Europe,Northern Europe,Iceland,processor,92086.2
+Asia,Western Asia,Cyprus,monitor,91511.93
+Asia,Western Asia,Israel,smartphone,90336.26
+Europe,Northern Europe,Finland,monitor,87458.87
+Unknown,Unknown,Unknown,processor,83622.84
+Asia,Western Asia,Israel,keyboard,75826.55
+Americas,Northern America,Canada,dslr camera,71671.68
+Europe,Western Europe,Austria,keyboard,71659.69
+Asia,Western Asia,Cyprus,keyboard,71525.87
+Europe,Eastern Europe,Poland,keyboard,69720.27
+Europe,Western Europe,Austria,smartphone,65924.74
+Europe,Northern Europe,Finland,mouse,65393.16
+Europe,Eastern Europe,Poland,dslr camera,62488.05
+Europe,Northern Europe,Iceland,smartphone,60274.74
+Europe,Southern Europe,Italy,mouse,59057.06
+Europe,Southern Europe,Italy,monitor,55776.95
+Asia,South-Eastern Asia,Singapore,keyboard,54841.27
+Asia,Eastern Asia,Hong Kong,keyboard,53211.15
+Europe,Southern Europe,Greece,dslr camera,50503.79
+Unknown,Unknown,Unknown,smartphone,49207.53
+Europe,Northern Europe,Denmark,mouse,49126.55
+Americas,Northern America,Canada,keyboard,48119.81
+Europe,Southern Europe,Malta,smartphone,47257.52
+Europe,Eastern Europe,Czech Republic,processor,46895.16
+Europe,Southern Europe,Malta,dslr camera,45806.64
+Americas,Northern America,Canada,processor,42940.41
+Unknown,Unknown,Unknown,keyboard,41253.96
+Europe,European Community,European Community,dslr camera,40165.2
+Europe,Eastern Europe,Poland,smartphone,38433.81
+Europe,Northern Europe,Denmark,monitor,37372.88
+Asia,South-Eastern Asia,Singapore,mouse,36243.65
+Europe,Western Europe,Austria,mouse,35898.08
+Asia,South-Eastern Asia,Singapore,monitor,35119.62
+Asia,Eastern Asia,Hong Kong,monitor,34762.3
+Americas,Northern America,United States,smartphone,32299.78
+Americas,Northern America,Canada,smartphone,29458.09
+Asia,Western Asia,Bahrain,dslr camera,28924.16
+Europe,Southern Europe,Greece,smartphone,27395.74
+Europe,Western Europe,Austria,monitor,27108.39
+Unknown,Unknown,Unknown,monitor,26551.26
+Europe,Northern Europe,Lithuania,smartphone,26328.54
+Europe,Southern Europe,Greece,processor,25992.89
+Europe,Eastern Europe,Poland,mouse,24061.37
+Americas,Northern America,Canada,monitor,24027.28
+Asia,Western Asia,Cyprus,mouse,23979.15
+Asia,Western Asia,Israel,mouse,22215.42
+Asia,Western Asia,United Arab Emirates,smartphone,21923.34
+Europe,Southern Europe,Malta,processor,20441.6
+Asia,Western Asia,Lebanon,smartphone,20060.4
+Europe,Northern Europe,Iceland,keyboard,19369.67
+Asia,Western Asia,United Arab Emirates,dslr camera,19247.78
+Americas,Northern America,United States,keyboard,19151.68
+Americas,South America,Brazil,dslr camera,17977.31
+Europe,Northern Europe,Iceland,dslr camera,17433.26
+Europe,Eastern Europe,Czech Republic,smartphone,16516.1
+Europe,Northern Europe,Iceland,monitor,15595.26
+Unknown,Unknown,Unknown,mouse,15565.4
+Africa,Southern Africa,South Africa,smartphone,15538.76
+Europe,Eastern Europe,Poland,monitor,15440.05
+Asia,Eastern Asia,Hong Kong,mouse,15053.91
+Asia,Western Asia,Israel,monitor,14547.45
+Europe,Southern Europe,Greece,keyboard,14521.73
+Asia,Western Asia,United Arab Emirates,keyboard,14116.44
+Europe,Northern Europe,Lithuania,dslr camera,14030.42
+Asia,Western Asia,United Arab Emirates,processor,12433.98
+Americas,Northern America,United States,mouse,12024.07
+Americas,Northern America,Canada,mouse,11538.37
+Americas,South America,Brazil,smartphone,11532.87
+Europe,Eastern Europe,Czech Republic,monitor,11118.24
+Europe,Southern Europe,Greece,mouse,10685.88
+Europe,Northern Europe,Iceland,mouse,10412.44
+Americas,South America,Brazil,processor,10410.24
+Europe,Northern Europe,Lithuania,processor,10239.44
+Asia,Western Asia,Lebanon,dslr camera,10227.28
+Europe,Southern Europe,Malta,mouse,9092.98
+Europe,Southern Europe,Malta,keyboard,9067.68
+Europe,Southern Europe,Greece,monitor,9009.21
+Europe,Eastern Europe,Czech Republic,mouse,8929.8
+Asia,Western Asia,United Arab Emirates,mouse,7766.58
+Asia,Western Asia,United Arab Emirates,monitor,6947.44
+Americas,Northern America,United States,monitor,6036.6
+Asia,Western Asia,Lebanon,monitor,5985
+Asia,Western Asia,Bahrain,keyboard,5486.24
+Africa,Southern Africa,South Africa,processor,5351.34
+European Community,European Community,European Community,monitor,5266.74
+Asia,Western Asia,Lebanon,processor,4791.9
+Europe,Northern Europe,Lithuania,monitor,4738.68
+European Community,European Community,European Community,processor,4729.78
+European Community,European Community,European Community,keyboard,4711.61
+Asia,Western Asia,Saudi Arabia,smartphone,4679.58
+Europe,Eastern Europe,Czech Republic,keyboard,3861.48
+European Community,European Community,European Community,mouse,3713.69
+Asia,Western Asia,Bahrain,monitor,3405.9
+European Community,European Community,European Community,smartphone,3298.07
+Europe,Northern Europe,Lithuania,keyboard,3287.82
+Europe,Northern Europe,Lithuania,mouse,2826.24
+Africa,Southern Africa,South Africa,monitor,2672.91
+Europe,Southern Europe,Malta,monitor,2334.69
+Asia,Western Asia,Lebanon,keyboard,2111.81
+Americas,South America,Brazil,keyboard,1911.59
+Americas,South America,Brazil,monitor,1895.92
+Africa,Southern Africa,South Africa,mouse,1731.39
+Asia,Western Asia,Lebanon,mouse,1587.76
+Asia,Western Asia,Bahrain,smartphone,1454.94
+Americas,South America,Brazil,mouse,1452.21
+Asia,Western Asia,Bahrain,mouse,1281.68
+Europe,Eastern Europe,Czech Republic,dslr camera,1227.12
+Africa,Southern Africa,South Africa,keyboard,1161.6
+Asia,Western Asia,Saudi Arabia,keyboard,1079.76
+Asia,Western Asia,Saudi Arabia,processor,1019.94
+Africa,Southern Africa,South Africa,dslr camera,764.44
+Asia,Western Asia,Saudi Arabia,mouse,407.34
+Asia,Western Asia,Saudi Arabia,dslr camera,159.98

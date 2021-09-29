@@ -1,0 +1,86 @@
+invoice_time,product_type,sale
+6,processor,0.000279
+7,processor,0.54637786
+7,smartphone,0.4533458
+7,dslr camera,0.17648178
+7,keyboard,0.13909558
+7,mouse,0.07089515
+7,monitor,0.02561792
+8,smartphone,4.75827701
+8,processor,3.94562663
+8,dslr camera,2.65277242
+8,keyboard,1.49540471
+8,monitor,1.05046681
+8,mouse,0.73834763
+9,smartphone,17.58381514
+9,processor,11.59347653
+9,dslr camera,7.84075916
+9,keyboard,4.98376384
+9,monitor,3.42313379
+9,mouse,2.18234791
+10,processor,24.3708023
+10,smartphone,19.66066302
+10,dslr camera,14.43331795
+10,keyboard,9.65806097
+10,monitor,6.12622924
+10,mouse,4.47826409
+11,processor,20.24155484
+11,dslr camera,16.55591033
+11,smartphone,16.1673746
+11,keyboard,7.93258349
+11,monitor,7.91404692
+11,mouse,3.80741545
+12,processor,23.56456274
+12,smartphone,22.03283404
+12,dslr camera,17.5615299
+12,keyboard,10.11982957
+12,monitor,7.86252401
+12,mouse,4.5894855
+13,processor,18.36685961
+13,smartphone,17.71584781
+13,dslr camera,14.49986536
+13,keyboard,7.42443045
+13,monitor,5.81637976
+13,mouse,3.67465008
+14,processor,16.88260032
+14,smartphone,14.35461351
+14,dslr camera,13.85540424
+14,keyboard,7.16238005
+14,monitor,5.07737995
+14,mouse,3.56800638
+15,processor,17.16494914
+15,smartphone,14.75572779
+15,dslr camera,13.59829335
+15,keyboard,7.6761276
+15,monitor,5.60672155
+15,mouse,4.25670465
+16,processor,10.43303327
+16,dslr camera,8.0849487
+16,smartphone,7.90958987
+16,keyboard,3.63146829
+16,monitor,2.92075761
+16,mouse,1.88125986
+17,processor,4.93169491
+17,smartphone,4.08772664
+17,dslr camera,3.9195757
+17,keyboard,2.55593341
+17,monitor,1.52677754
+17,mouse,1.11531857
+18,processor,2.9764352
+18,dslr camera,2.83067783
+18,smartphone,1.75622477
+18,keyboard,0.85373167
+18,monitor,0.55092744
+18,mouse,0.34668025
+19,dslr camera,1.09290147
+19,processor,0.9516597
+19,smartphone,0.91256537
+19,keyboard,0.26946889
+19,mouse,0.22120802
+19,monitor,0.16406806
+20,processor,0.6184138
+20,smartphone,0.17659987
+20,keyboard,0.09990987
+20,dslr camera,0.0988203
+20,mouse,0.03774554
+20,monitor,0.02459954
