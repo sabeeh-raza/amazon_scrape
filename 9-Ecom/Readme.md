@@ -1,4 +1,4 @@
-## Amazon Database seaborn plots
+## Amazon Database python libraries plots
 
 ## MySQL is used for amazon relational Database (sp6-as-1.sql)
 
